@@ -1,3 +1,3 @@
 # daftar-biodata-siswa
 walawaal
-<button> "wush" </button>
+<button text="wush">
